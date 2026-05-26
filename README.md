@@ -27,8 +27,7 @@ Bilgisayar Bilimleri 3. sınıf öğrencisiyim. Yazılım geliştirme, web tekno
 - Backend Development
 - Frontend Development
 - Database Systems
-- Data Science
-- Artificial Intelligence & Machine Learning
+- Data Science & AI
 
 ---
 
