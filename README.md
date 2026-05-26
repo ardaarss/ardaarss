@@ -4,10 +4,6 @@
   Bilgisayar Bilimleri öğrencisi | Yazılım Geliştirme | Web Teknolojileri | Veri Bilimi & Yapay Zekâ
 </p>
 
-<p align="center">
-  Bilgisayar Bilimleri öğrencisi | Yazılım Geliştirme | Web Teknolojileri | Veri Bilimi & Yapay Zekâ
-</p>
-
 ---
 
 ## 👨‍💻 Hakkımda
