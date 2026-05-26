@@ -72,10 +72,10 @@ Yazılım geliştirme, veri bilimi ve yapay zekâ alanlarında kendimi sürekli 
 ## 📫 Bana Ulaşın
 
 <p>
-  <a href="LINKEDIN_LINKINI_BURAYA_EKLE">
-    <img src="https://img.shields.io/badge/LinkedIn-Arda%20Arslan-blue?style=for-the-badge&logo=linkedin" />
+  <a href="[LINKEDIN_LINKINI_BURAYA_EKLE](https://www.linkedin.com/in/arda-arslan1/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Arda%20Arslan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ardaarslan557@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ardaarslan557%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ardaarslan557%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
