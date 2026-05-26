@@ -42,7 +42,6 @@ Bilgisayar Bilimleri 3. sınıf öğrencisiyim. Yazılım geliştirme, web tekno
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
 </p>
 
