@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Hakkımda
 
-Bilgisayar Bilimleri 3. sınıf öğrencisiyim. Yazılım geliştirme, web teknolojileri, veri bilimi, veritabanı sistemleri ve yapay zekâ alanlarına ilgi duyuyorum.
+Bilgisayar Bilimleri 3. sınıf öğrencisiyim. Yazılım geliştirme, web teknolojileri, veri bilimi ve yapay zekâ alanlarına ilgi duyuyorum.
 
 Öğrenmeye, araştırmaya ve geliştirdiğim projelerle kendimi teknik olarak ilerletmeye odaklanıyorum. Amacım; kullanıcı ihtiyaçlarına uygun, sürdürülebilir ve gerçek hayatta uygulanabilir yazılım çözümleri geliştirmek.
 
@@ -20,7 +20,6 @@ Bilgisayar Bilimleri 3. sınıf öğrencisiyim. Yazılım geliştirme, web tekno
 - Web Technologies
 - Backend Development
 - Frontend Development
-- Database Systems
 - Data Science & AI
 
 ---
@@ -57,7 +56,7 @@ Bilgisayar Bilimleri 3. sınıf öğrencisiyim. Yazılım geliştirme, web tekno
 
 Yazılım geliştirme, veri bilimi ve yapay zekâ alanlarında kendimi sürekli geliştirerek gerçek problemlere çözüm üreten projeler geliştirmek istiyorum.
 
-Özellikle web tabanlı sistemler, backend yapıları, veritabanı yönetimi, veri analizi ve yapay zekâ destekli yazılım çözümleri üzerine daha fazla deneyim kazanmayı hedefliyorum.
+Özellikle web tabanlı sistemler, backend yapıları, veri analizi ve yapay zekâ destekli yazılım çözümleri üzerine daha fazla deneyim kazanmayı hedefliyorum.
 
 ---
 
