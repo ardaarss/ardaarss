@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue" />
-  <img src="https://img.shields.io/badge/Interest-Web%20Technologies-green" />
-  <img src="https://img.shields.io/badge/Learning-Data%20Science%20%26%20AI-orange" />
+  Bilgisayar Bilimleri öğrencisi | Yazılım Geliştirme | Web Teknolojileri | Veri Bilimi & Yapay Zekâ
 </p>
 
 ---
