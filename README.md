@@ -1,43 +1,57 @@
-<h1 align="center">Merhaba, ben Arda Arslan 👋</h1>
+<div align="center">
+  <!-- Modern Animasyonlu Başlık Banner'ı -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Arda%20Arslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20Bilimleri%20Öğrencisi%20%7C%20Full-Stack%20Geliştirici&descAlignY=58&descAlign=50" width="100%" />
+
+  <!-- İletişim Rozetleri -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/arda-arslan1/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ardaarslan557@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 Hakkımda
+
+Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum. 
+
+Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmeyi amaçlıyorum.
+
+---
+
+### ⚡ Hızlı Bakış
+
+- 🎓 **Eğitim:** Karadeniz Teknik Üniversitesi - Bilgisayar Bilimleri (Son Sınıf)
+- 💻 **Alan:** Full-Stack Geliştirme (Frontend, Backend & Veritabanı)
+- 🧠 **İlgi:** Veri odaklı yapılar ve temiz kod (Clean Code) prensipleri
+- 💬 **İletişim:** Yazılım projeleri, teknoloji ve iş birlikleri için iletişime açığım
+
+---
+
+### 🛠️ Yetkinlikler & Araçlar
 
 <p align="center">
-  <b>Bilgisayar Bilimleri Öğrencisi | Full-Stack Geliştirici</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arda-arslan1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arda%20Arslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ardaarslan557@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ardaarslan557%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,python,flask,php,postgres,mysql,git,github,vscode&perline=6" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Hakkımda
+### 📊 GitHub İstatistikleri
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
-
-Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
-
----
-
-## 🛠️ Yetkinlikler & Araçlar
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<p align="center">
+  <!-- NOT: "GITHUB_KULLANICI_ADIN" yazan yerlere kendi GitHub kullanıcı adını yaz -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=70&section=footer" width="100%" />
+</div>
