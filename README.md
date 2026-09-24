@@ -4,7 +4,7 @@
 
   <!-- Alanlar & Alt Açıklama -->
   <p align="center">
-    <b>Full-Stack Geliştirme • Yapay Zekâ • Veri Bilimi • İstatistik</b><br>
+    <b>Full-Stack Geliştirme • Veri Bilimi • Makine Öğrenmesi</b><br>
     <sub><i>Modern web mimarileri, veri odaklı çözümler ve uçtan uca sistem tasarımı.</i></sub>
   </p>
 
