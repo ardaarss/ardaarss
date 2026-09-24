@@ -17,9 +17,9 @@
 
 ### 👨‍💻 Hakkımda
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Yazılım geliştirme sürecine **uçtan uca (Full-Stack)** bir mühendislik perspektifiyle yaklaşıyor; kullanıcı deneyimini merkeze alan modern arayüzler ile arka planda güvenli, kararlı ve ölçeklenebilir sistem mimarileri inşa etmeye odaklanıyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
 
-Yalnızca çalışan kod üretmeyi değil; okunabilir, modüler ve sürdürülebilir mimariler kurmayı hedefliyorum. Bilgisayar bilimleri temelimden beslenerek problem çözme odaklı çalışıyor, yeni teknolojileri ve modern pratikleri hızla projelerime entegre ediyorum.
+Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
 
 ---
 
@@ -95,14 +95,13 @@ Yalnızca çalışan kod üretmeyi değil; okunabilir, modüler ve sürdürüleb
 
 ### 📫 İletişim
 
-Projeler, staj veya iş fırsatları üzerine görüşmek için bana dilediğin zaman ulaşabilirsin:
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/arda-arslan1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/arda-arslan1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ardaarslan557@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email" />
   </a>
 </p>
 
