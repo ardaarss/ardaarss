@@ -17,9 +17,9 @@
 
 ### 👨‍💻 Hakkımda
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Yazılım geliştirme sürecine **uçtan uca (Full-Stack)** bir mühendislik perspektifiyle yaklaşıyor; kullanıcı deneyimini merkeze alan modern arayüzler ile arka planda güvenli, kararlı ve ölçeklenebilir sistem mimarileri inşa etmeye odaklanıyorum.
 
-Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmeyi amaçlıyorum.
+Yalnızca çalışan kod üretmeyi değil; okunabilir, modüler ve sürdürülebilir mimariler kurmayı hedefliyorum. Bilgisayar bilimleri temelimden beslenerek problem çözme odaklı çalışıyor, yeni teknolojileri ve modern pratikleri hızla projelerime entegre ediyorum.
 
 ---
 
@@ -36,20 +36,60 @@ Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca y
 
 ### 🛠️ Teknolojiler & Araçlar
 
-<p align="center">
-  <b>🌐 Frontend Geliştirme</b><br>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
-
-<p align="center">
-  <b>⚙️ Backend & Veritabanı</b><br>
-  <img src="https://skillicons.dev/icons?i=python,flask,php,postgres,mysql" />
-</p>
-
-<p align="center">
-  <b>🔧 Araçlar & Platformlar</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br><sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
