@@ -4,7 +4,7 @@
 
   <!-- Alanlar & Alt Açıklama -->
   <p align="center">
-    <b>Full-Stack Development • Artificial Intelligence • Data Science • Statistics</b><br>
+    <b>Full-Stack Geliştirme • Yapay Zekâ • Veri Bilimi • İstatistik</b><br>
     <sub><i>Modern web mimarileri, veri odaklı çözümler ve uçtan uca sistem tasarımı.</i></sub>
   </p>
 
@@ -27,7 +27,6 @@
 Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
 
 Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
-
 
 ---
 
