@@ -2,7 +2,7 @@
   <!-- Modern Animasyonlu Başlık Banner'ı -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Arda%20Arslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20Bilimleri%20Öğrencisi%20%7C%20Full-Stack%20Geliştirici&descAlignY=58&descAlign=50" width="100%" />
 
-  <!-- İletişim Rozetleri -->
+  <!-- İletişim & Profil Ziyaretçi Rozetleri -->
   <p align="center">
     <a href="https://www.linkedin.com/in/arda-arslan1/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -10,6 +10,7 @@
     <a href="mailto:ardaarslan557@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=ardaarss&label=Profil%20Görüntüleme&color=0077B5&style=for-the-badge" />
   </p>
 </div>
 
@@ -42,12 +43,10 @@ Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca y
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Katkı & Aktivite Durumu
 
 <p align="center">
-  <!-- NOT: "GITHUB_KULLANICI_ADIN" yazan yerlere kendi GitHub kullanıcı adını yaz -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ardaarss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaarss&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=ardaarss&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <br>
