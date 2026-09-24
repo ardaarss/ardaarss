@@ -4,8 +4,8 @@
 
   <!-- Alanlar & Alt Açıklama -->
   <p align="center">
-    <b>Full-Stack Geliştirme • Makine Öğrenmesi • Veri Bilimi • İstatistik</b><br>
-    <sub><i>Modern web mimarileri, veri odaklı çözümler ve uçtan uca sistem tasarımı.</i></sub>
+    <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Full-Stack+Geliştirici;Makine+Öğrenmesi+%26+Veri+Bilimi;KTÜ+Bilgisayar+Bilimleri+Son+Sınıf" alt="Typing SVG" />
   </p>
 
   <!-- İletişim Rozetleri -->
