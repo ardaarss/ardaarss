@@ -17,36 +17,36 @@
 
 ### 👨‍💻 Hakkımda
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum. 
+Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Yazılım geliştirme sürecine **uçtan uca (Full-Stack)** bir mühendislik perspektifiyle yaklaşıyor; kullanıcı deneyimini merkeze alan modern arayüzler ile arka planda güvenli, kararlı ve ölçeklenebilir sistem mimarileri inşa etmeye odaklanıyorum.
 
-Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmeyi amaçlıyorum.
-
----
-
-### ⚡ Hızlı Bakış
-
-- 🎓 **Eğitim:** Karadeniz Teknik Üniversitesi - Bilgisayar Bilimleri (Son Sınıf)
-- 💻 **Alan:** Full-Stack Geliştirme (Frontend, Backend & Veritabanı)
-- 🧠 **İlgi:** Veri odaklı yapılar ve temiz kod (Clean Code) prensipleri
-- 💬 **İletişim:** Yazılım projeleri, teknoloji ve iş birlikleri için iletişime açığım
+Yalnızca çalışan kod üretmeyi değil; okunabilir, modüler ve sürdürülebilir mimariler kurmayı hedefliyorum. Bilgisayar bilimleri temelimden beslenerek problem çözme odaklı çalışıyor, yeni teknolojileri ve modern pratikleri hızla projelerime entegre ediyorum.
 
 ---
 
-### 🛠️ Yetkinlikler & Araçlar
+### 🎯 Odak & Uzmanlık Alanları
 
-<p align="center">
+| Alan | Açıklama & Yaklaşım |
+| :--- | :--- |
+| 🎨 **Frontend Mimarisi** | Kullanıcı dostu, modern ve responsive arayüzler; bileşen (component) tabanlı dinamik yapılar. |
+| ⚙️ **Backend & Sistem** | Güvenli sunucu tarafı iş mantıkları, veri akışları ve ölçeklenebilir servis mimarileri. |
+| 🗄️ **Veritabanı Yönetimi** | İlişkisel veri modelleme, şema tasarımı, veri bütünlüğü ve sorgu optimizasyonları. |
+| 🛠️ **Yazılım Yaşam Döngüsü** | Versiyon kontrolü, temiz kod (Clean Code) standartları ve modüler kodlama prensipleri. |
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,python,flask,php,postgres,mysql,git,github,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,php,postgres,mysql,git,github,vscode&perline=6" />
   </a>
-</p>
+</div>
 
 ---
 
-### 💻 En Çok Kullandığım Diller
+### 🤝 İş Birliği & İletişim
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardaarss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+Yeni fikirler üretmeye, açık kaynak dünyasını takip etmeye ve ekip çalışması gerektiren projelere her zaman açığım. Full-Stack geliştirme, staj veya iş olanakları üzerine görüşmek istersen bana [LinkedIn](https://www.linkedin.com/in/arda-arslan1/) veya [E-posta](mailto:ardaarslan557@gmail.com) üzerinden dilediğin zaman ulaşabilirsin.
 
 <br>
 
