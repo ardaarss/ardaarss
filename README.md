@@ -1,14 +1,21 @@
 <div align="center">
   <!-- Modern Animasyonlu Başlık Banner'ı -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Arda%20Arslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20Bilimleri%20Öğrencisi%20%7C%20Full-Stack%20Geliştirici&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=130&section=header&text=Arda%20Arslan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
+
+  <!-- Alanlar & Alt Açıklama -->
+  <p align="center">
+    <b>Full-Stack Development • Artificial Intelligence • Data Science • Statistics</b><br>
+    <sub><i>Modern web mimarileri, veri odaklı çözümler ve uçtan uca sistem tasarımı.</i></sub>
+  </p>
 
   <!-- İletişim Rozetleri -->
   <p align="center">
     <a href="https://www.linkedin.com/in/arda-arslan1/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
+    &nbsp;
     <a href="mailto:ardaarslan557@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
@@ -20,6 +27,7 @@
 Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
 
 Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
+
 
 ---
 
