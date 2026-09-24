@@ -93,9 +93,18 @@ Yalnızca çalışan kod üretmeyi değil; okunabilir, modüler ve sürdürüleb
 
 ---
 
-### 🤝 İş Birliği & İletişim
+### 📫 İletişim
 
-Yeni fikirler üretmeye, açık kaynak dünyasını takip etmeye ve ekip çalışması gerektiren projelere her zaman açığım. Full-Stack geliştirme, staj veya iş olanakları üzerine görüşmek istersen bana [LinkedIn](https://www.linkedin.com/in/arda-arslan1/) veya [E-posta](mailto:ardaarslan557@gmail.com) üzerinden dilediğin zaman ulaşabilirsin.
+Projeler, staj veya iş fırsatları üzerine görüşmek için bana dilediğin zaman ulaşabilirsin:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arda-arslan1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ardaarslan557@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
