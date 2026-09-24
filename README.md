@@ -2,7 +2,7 @@
   <!-- Modern Animasyonlu Başlık Banner'ı -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Arda%20Arslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20Bilimleri%20Öğrencisi%20%7C%20Full-Stack%20Geliştirici&descAlignY=58&descAlign=50" width="100%" />
 
-  <!-- İletişim & Profil Ziyaretçi Rozetleri -->
+  <!-- İletişim Rozetleri -->
   <p align="center">
     <a href="https://www.linkedin.com/in/arda-arslan1/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -10,7 +10,6 @@
     <a href="mailto:ardaarslan557@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=ardaarss&label=Profil%20Görüntüleme&color=0077B5&style=for-the-badge" />
   </p>
 </div>
 
@@ -43,10 +42,10 @@ Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca y
 
 ---
 
-### 📊 GitHub Katkı & Aktivite Durumu
+### 💻 En Çok Kullandığım Diller
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ardaarss&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardaarss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <br>
