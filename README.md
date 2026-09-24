@@ -17,20 +17,20 @@
 
 ### 👨‍💻 Hakkımda
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Yazılım geliştirme sürecine **uçtan uca (Full-Stack)** bir mühendislik perspektifiyle yaklaşıyor; kullanıcı deneyimini merkeze alan modern arayüzler ile arka planda güvenli, kararlı ve ölçeklenebilir sistem mimarileri inşa etmeye odaklanıyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
 
-Yalnızca çalışan kod üretmeyi değil; okunabilir, modüler ve sürdürülebilir mimariler kurmayı hedefliyorum. Bilgisayar bilimleri temelimden beslenerek problem çözme odaklı çalışıyor, yeni teknolojileri ve modern pratikleri hızla projelerime entegre ediyorum.
+Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
 
 ---
 
-### 🎯 Odak & Uzmanlık Alanları
+### 🎯 İlgilendiğim & Çalıştığım Alanlar
 
-| Alan | Açıklama & Yaklaşım |
+| Alan | Neler Yapıyorum & Nasıl Yaklaşıyorum? |
 | :--- | :--- |
-| 🎨 **Frontend Mimarisi** | Kullanıcı dostu, modern ve responsive arayüzler; bileşen tabanlı dinamik yapılar. |
-| ⚙️ **Backend & Sistem** | Güvenli sunucu tarafı iş mantıkları, veri akışları ve ölçeklenebilir servis mimarileri. |
-| 🗄️ **Veritabanı Yönetimi** | İlişkisel veri modelleme, şema tasarımı, veri bütünlüğü ve sorgu optimizasyonları. |
-| 🛠️ **Yazılım Yaşam Döngüsü** | Versiyon kontrolü, temiz kod (Clean Code) standartları ve modüler kodlama prensipleri. |
+| 🌐 **Full-Stack Geliştirme** | Kullanıcıların rahatça kullandığı modern web arayüzleri ve arka planda çalışan güvenli sistemleri uçtan uca tasarlamak. |
+| 📊 **Veri Bilimi & İstatistik** | Verileri analiz ederek anlamlı sonuçlar çıkarmak, istatistiksel yöntemlerle problemleri modellemek ve karar süreçlerini verilere dayandırmak. |
+| 🗄️ **Veritabanı Yönetimi** | Verilerin düzenli, tutarlı ve hızlı bir şekilde saklanıp sorgulanabilmesi için doğru veritabanı yapıları kurgulamak. |
+| 🛠️ **Yazılım Kültürü & Araçlar** | Temiz, başkaları tarafından kolayca okunabilen kod yazmak ve Git/GitHub ile projeleri düzenli takip etmek. |
 
 ---
 
