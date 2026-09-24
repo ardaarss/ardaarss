@@ -3,9 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=130&section=header&text=Arda%20Arslan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
 
   <!-- Alanlar & Alt Açıklama -->
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Full-Stack+Geliştirici;Makine+Öğrenmesi+%26+Veri+Bilimi;KTÜ+Bilgisayar+Bilimleri+Son+Sınıf" alt="Typing SVG" />
-</p>
+   <p align="center">
+    <b>Full-Stack Geliştirme • Makine Öğrenmesi • Veri Bilimi • İstatistik</b><br>
+    <sub><i>Modern web mimarileri, veri odaklı çözümler ve uçtan uca sistem tasarımı.</i></sub>
+  </p>
 
   <!-- İletişim Rozetleri -->
   <p align="center">
