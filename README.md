@@ -27,7 +27,7 @@ Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca y
 
 | Alan | Açıklama & Yaklaşım |
 | :--- | :--- |
-| 🎨 **Frontend Mimarisi** | Kullanıcı dostu, modern ve responsive arayüzler; bileşen (component) tabanlı dinamik yapılar. |
+| 🎨 **Frontend Mimarisi** | Kullanıcı dostu, modern ve responsive arayüzler; bileşen tabanlı dinamik yapılar. |
 | ⚙️ **Backend & Sistem** | Güvenli sunucu tarafı iş mantıkları, veri akışları ve ölçeklenebilir servis mimarileri. |
 | 🗄️ **Veritabanı Yönetimi** | İlişkisel veri modelleme, şema tasarımı, veri bütünlüğü ve sorgu optimizasyonları. |
 | 🛠️ **Yazılım Yaşam Döngüsü** | Versiyon kontrolü, temiz kod (Clean Code) standartları ve modüler kodlama prensipleri. |
@@ -36,11 +36,20 @@ Sürdürülebilir, performanslı ve gerçek dünyada değer üreten uçtan uca y
 
 ### 🛠️ Teknolojiler & Araçlar
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,php,postgres,mysql,git,github,vscode&perline=6" />
-  </a>
-</div>
+<p align="center">
+  <b>🌐 Frontend Geliştirme</b><br>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+<p align="center">
+  <b>⚙️ Backend & Veritabanı</b><br>
+  <img src="https://skillicons.dev/icons?i=python,flask,php,postgres,mysql" />
+</p>
+
+<p align="center">
+  <b>🔧 Araçlar & Platformlar</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
