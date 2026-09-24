@@ -17,9 +17,9 @@
 
 ### 👨‍💻 Hakkımda
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Yazılım geliştirme sürecine **uçtan uca (Full-Stack)** bir mühendislik perspektifiyle yaklaşıyor; kullanıcı deneyimini merkeze alan modern arayüzler ile arka planda güvenli, kararlı ve ölçeklenebilir sistem mimarileri inşa etmeye odaklanıyorum.
 
-Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
+Yalnızca çalışan kod üretmeyi değil; okunabilir, modüler ve sürdürülebilir mimariler kurmayı hedefliyorum. Bilgisayar bilimleri temelimden beslenerek problem çözme odaklı çalışıyor, yeni teknolojileri ve modern pratikleri hızla projelerime entegre ediyorum.
 
 ---
 
@@ -28,9 +28,9 @@ Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazıl�
 | Alan | Neler Yapıyorum & Nasıl Yaklaşıyorum? |
 | :--- | :--- |
 | 🌐 **Full-Stack Geliştirme** | Kullanıcıların rahatça kullandığı modern web arayüzleri ve arka planda çalışan güvenli sistemleri uçtan uca tasarlamak. |
+| 🤖 **Yapay Zekâ & Makine Öğrenmesi** | Makine öğrenmesi modelleri, yapay zekâ algoritmaları ve bu akıllı çözümlerin yazılım sistemlerine entegrasyonu üzerine çalışmak. |
 | 📊 **Veri Bilimi & İstatistik** | Verileri analiz ederek anlamlı sonuçlar çıkarmak, istatistiksel yöntemlerle problemleri modellemek ve karar süreçlerini verilere dayandırmak. |
 | 🗄️ **Veritabanı Yönetimi** | Verilerin düzenli, tutarlı ve hızlı bir şekilde saklanıp sorgulanabilmesi için doğru veritabanı yapıları kurgulamak. |
-| 🛠️ **Yazılım Kültürü & Araçlar** | Temiz, başkaları tarafından kolayca okunabilen kod yazmak ve Git/GitHub ile projeleri düzenli takip etmek. |
 
 ---
 
