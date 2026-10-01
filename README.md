@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Hakkımda
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Ağırlıklı olarak **Full-Stack geliştirme** alanına odaklanıyor; kullanıcı deneyimini ön planda tutan modern arayüzler ve ölçeklenebilir arka uç mimarileri üzerine çalışıyorum.
+Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Çalışmalarımı ağırlıklı olarak **Full-Stack Geliştirme** ile **Veri Bilimi** ve **Yapay Zekâ** alanlarında sürdürüyorum. Hem uçtan uca ölçeklenebilir uygulamalar geliştirme hem de veri odaklı modeller kurup problem çözme konularında kendimi pratik projelerle yetkinleştiriyorum. 
 
 Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
 
