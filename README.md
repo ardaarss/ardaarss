@@ -24,16 +24,6 @@ Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. �
 
 Amacım; sürdürülebilir, kullanıcı odaklı ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri üretmek.
 
-<p>
-  <a href="https://www.linkedin.com/in/arda-arslan1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ardaarslan557@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ### 🎯 İlgilendiğim & Çalıştığım Alanlar
