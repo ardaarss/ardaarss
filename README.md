@@ -1,15 +1,22 @@
 <div align="center">
   <!-- Modern Animasyonlu Başlık Banner'ı -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=130&section=header&text=Arda%20Arslan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
-
   <!-- Alanlar & Alt Açıklama -->
   <p align="center">
     <b>Full-Stack Geliştirme • Makine Öğrenmesi • Veri Bilimi • İstatistik</b><br>
     <sub><i>Modern web mimarileri, veri odaklı çözümler ve uçtan uca sistem tasarımı.</i></sub>
   </p>
+  <!-- Sosyal / İletişim Logoları (Tam o boşluğa) -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/arda-arslan1/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="34" height="34" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:ardaarslan557@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="34" height="34" alt="Email" />
+    </a>
+  </p>
 </div>
-
----
 
 ### 👨‍💻 Hakkımda
 
