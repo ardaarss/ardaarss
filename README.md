@@ -3,20 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=130&section=header&text=Arda%20Arslan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
 
   <!-- Alanlar & Alt Açıklama -->
-   <p align="center">
+  <p align="center">
     <b>Full-Stack Geliştirme • Makine Öğrenmesi • Veri Bilimi • İstatistik</b><br>
     <sub><i>Modern web mimarileri, veri odaklı çözümler ve uçtan uca sistem tasarımı.</i></sub>
-  </p>
-
-  <!-- İletişim Rozetleri -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/arda-arslan1/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:ardaarslan557@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
   </p>
 </div>
 
@@ -26,7 +15,17 @@
 
 Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri 4. sınıf öğrencisiyim. Çalışmalarımı ağırlıklı olarak **Full-Stack Geliştirme** ile **Veri Bilimi** ve **Yapay Zekâ** alanlarında sürdürüyorum. Hem uçtan uca ölçeklenebilir uygulamalar geliştirme hem de veri odaklı modeller kurup problem çözme konularında kendimi pratik projelerle yetkinleştiriyorum. 
 
-Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri geliştirmek.
+Amacım; sürdürülebilir, kullanıcı odaklı ve gerçek dünyada değer üreten uçtan uca yazılım çözümleri üretmek.
+
+<p>
+  <a href="https://www.linkedin.com/in/arda-arslan1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ardaarslan557@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -111,20 +110,6 @@ Amacım; sürdürülebilir ve gerçek dünyada değer üreten uçtan uca yazıl�
     </td>
   </tr>
 </table>
-
----
-
-### 📫 İletişim
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arda-arslan1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ardaarslan557@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email" />
-  </a>
-</p>
 
 <br>
 
