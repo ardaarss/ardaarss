@@ -33,7 +33,6 @@ Amacım; sürdürülebilir, kullanıcı odaklı ve gerçek dünyada değer üret
 | 🌐 **Full-Stack Geliştirme** | Kullanıcıların rahatça kullandığı modern web arayüzleri ve arka planda çalışan güvenli sistemleri uçtan uca tasarlamak. |
 | 🤖 **Yapay Zekâ & Makine Öğrenmesi** | Makine öğrenmesi modelleri, yapay zekâ algoritmaları ve bu akıllı çözümlerin yazılım sistemlerine entegrasyonu üzerine çalışmak. |
 | 📊 **Veri Bilimi & İstatistik** | Verileri analiz ederek anlamlı sonuçlar çıkarmak, istatistiksel yöntemlerle problemleri modellemek ve karar süreçlerini verilere dayandırmak. |
-| 🗄️ **Veritabanı Yönetimi** | Verilerin düzenli, tutarlı ve hızlı bir şekilde saklanıp sorgulanabilmesi için doğru veritabanı yapıları kurgulamak. |
 
 ---
 
